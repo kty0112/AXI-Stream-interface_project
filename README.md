@@ -1,4 +1,3 @@
-# AXI-Stream-interface_project
 # AXI4-Stream Asynchronous Data Width Converter
 
 An AXI4-Stream compliant asynchronous data width converter (DWC) with full UVM verification environment. Supports clock domain crossing (CDC) with configurable upsizing, downsizing, and passthrough modes.
